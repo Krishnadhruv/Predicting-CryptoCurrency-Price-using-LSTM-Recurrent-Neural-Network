@@ -4,4 +4,4 @@ LSTMs are a special kind of RNN, capable of learning long-term dependencies and 
 We are going to use Bitcoin as our choice of cryptocurrency price to predict. It has over 249 Billion dollars worth of market cap in today’s date. You can find historical data for the price of Bitcoin on the coinmarketcap’s site here. 
 
 https://coinmarketcap.com/currencies/bitcoin/historical-data/?start=20130428&end=20180104
-Happy Predicting!
+
